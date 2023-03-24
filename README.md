@@ -1,2 +1,2 @@
 ﻿# airasiaPriceTracker
-Please define your desired origin,destination,flight number and date. 
+Please define your desired origin, destination, flight number and date. 
